@@ -1,6 +1,6 @@
 # JPA Ejemplo 3
 
-## En este ejemplo haremos uso de JPQL y de metodos como:
+## En este ejemplo haremos uso de Spring Data Finder Methods como:
 ### FindBy
 ### FindBy (Multiple fields)
 ### GreaterThan
